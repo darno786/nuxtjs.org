@@ -1,6 +1,6 @@
 <template>
   <div class="category">
-    <nuxt-affix :list="list" category="examples"/>
+    <nuxt-affix :list="list" category="2"/>
     <div class="category__content Content Content--hasCarbon" :class="{'category__content--hidden': visible}">
       <nuxt-child/>
     </div>
