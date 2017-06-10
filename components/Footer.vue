@@ -5,9 +5,8 @@
     </div> -->
     <div class="Footer__Author container">
       {{ $store.state.lang.footer.authors }}:
-      <a href="https://github.com/Atinux" target="_blank">@Atinux</a>
-      &amp;
-      <a href="https://github.com/alexchopin" target="_blank">@alexchopin</a>
+      <a href="https://github.com/Atinux" target="_blank">@Adnan</a>
+      &amp;      
     </div>
   </footer>
 </template>
