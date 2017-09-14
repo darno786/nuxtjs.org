@@ -2,7 +2,7 @@
   <header class="Header">
     <nuxt-link class="Header__Logo" to="/">
       <img src="~static/logo_nav.png" alt="Nuxt"/>
-      <h1 class="Header__Logo__Text">ADNANs taxi base</h1>
+      <h1 class="Header__Logo__Text">ADNAN</h1>
     </nuxt-link>
     <div class="Header__Toggler">
       <div class="Header__Toggler__Button" @click="toggle">
