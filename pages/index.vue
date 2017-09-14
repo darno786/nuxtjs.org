@@ -3,7 +3,7 @@
     <section class="Landscape">
       <div class="Landscape__Logo">
         <nuxt-logo/>
-        <h1 class="Landscape__Logo__Title">ADNANs taxi base</h1>
+        <h1 class="Landscape__Logo__Title">ADNAN</h1>
       </div>
       <h2 class="Landscape__Title">
         {{ $store.state.lang.homepage.title }}
